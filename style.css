@@ -1,0 +1,41 @@
+body {
+  background: linear-gradient(to right, #e6e6e6, #f2f2f2);
+}
+.nav .nav-item .nav-link{
+    color: #868282;
+    transition: color 0.4s ease 0s;
+} 
+
+.nav .nav-item .nav-link:hover{
+    color: black;
+}
+.span4 img {
+    width: 350px;
+    height: 450px;
+    margin-right: 20px;
+}
+.span4 .img-left {
+    float: left;
+}
+.span4 .img-right {
+    float: right;
+}
+.block {
+    text-align: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+#page-content {
+    flex: 1 0 auto;
+  }
+#sticky-footer {
+    flex-shrink: none;
+    background: linear-gradient(to right, #e6e6e6, #f2f2f2);    
+}
+#footer-text{
+    color: black;
+}
+
+
+
