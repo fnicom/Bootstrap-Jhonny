@@ -1,0 +1,28 @@
+.main h2{
+    margin-top: 2cm;
+    margin-bottom: 0.5cm;
+    text-align: left;
+}
+.main .content p{
+    margin-top: 0.1cm;
+    margin-bottom: 0.2cm;
+    text-align: left;
+}
+
+.container img{
+    margin-top: 0.1cm;
+    margin-bottom: 0cm;
+}
+
+.thumbnail{
+    max-width:100%;
+    width:500px; 
+    height:500px;
+}
+
+
+
+
+
+
+
