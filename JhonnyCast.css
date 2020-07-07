@@ -1,0 +1,25 @@
+.img-left{
+    img
+    max-width:100%;
+    width:100px; 
+    height:100px;
+}
+.img-cast{
+    text-align: left;
+    position: center;
+    display: inline-block;
+    z-index: 98;
+    color: rgb(85,85,85);
+    cursor: default;
+}
+.container1{
+    margin-top: 100px;
+}
+.container1 h2{
+    text-align: left;
+    position: center;
+}
+.container1 p{
+    text-align: left;
+    position: center;
+}
