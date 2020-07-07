@@ -17,9 +17,15 @@
 }
 .container1 h2{
     text-align: left;
-    position: center;
+    position: relative;
 }
 .container1 p{
     text-align: left;
-    position: center;
+    position: absolute;
+}
+
+.resume p{
+    margin-top: 15px;
+    margin-left: center;
+
 }
