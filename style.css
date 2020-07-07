@@ -9,15 +9,15 @@ body {
 .nav .nav-item .nav-link:hover{
     color: black;
 }
-.span4 img {
-    width: 350px;
-    height: 450px;
-    margin-right: 20px;
+.img-left{
+    max-width:100%;
+    width:330px; 
+    height:430px;
 }
-.span4 .img-left {
+.img-left .img-left {
     float: left;
 }
-.span4 .img-right {
+.img-left .img-right {
     float: right;
 }
 .block {
